@@ -5,4 +5,3 @@ xarray==2023.6.0
 scipy==1.13.1
 netCDF4==1.6.2
 h5netcdf==1.2.0
-python==3.12.4
